@@ -289,9 +289,6 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vOox_hw8Ut4YTv1pGBF4-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="585" y="238" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="vOox_hw8Ut4YTv1pGBF4-45" value="Supplier" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="640" width="250" height="220" as="geometry" />
         </mxCell>
